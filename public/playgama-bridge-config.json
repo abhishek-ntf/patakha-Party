@@ -1,0 +1,9 @@
+{
+  "device": {
+    "useBuiltInOrientationPopup": false,
+    "supportedOrientations": ["landscape", "portrait"]
+  },
+  "advertisement": {
+    "minimumDelayBetweenInterstitial": 60
+  }
+}
